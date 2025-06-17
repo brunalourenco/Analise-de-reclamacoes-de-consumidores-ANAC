@@ -5,7 +5,7 @@ Identificar as principais causas de  reclamações de consumidores de serviços 
 
 Para isso foram elaboradas as seguintes perguntas:
 
-1. Como está a evolução de crescimento em % e a quantidade de reclamações de consumidores brasileiros ? <br>
+1. Como foi a evolução do crescimento em % e a quantidade de reclamações de consumidores brasileiros ? <br>
 1.1 - Como foi a evolução do % de reclamações ao longo dos meses durante o período ?
 2. Qual o % de reclamações por UF ?
 3. Quais as 5 cidades com os maiores % de reclamações ?
