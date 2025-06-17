@@ -17,7 +17,7 @@ Para isso foram elaboradas as seguintes perguntas:
 * As quantidades de reclamações estão diminuindo a partir de 2023 e há boa taxa de resposta sendo 99% . 
 * O mês de Janeiro  apresentou a maior quantidade de reclamações sendo 11%;
 * A maioria dos consumidores são dos Estados de São Paulo e Minas Gerais juntos totalizam cerca de 35% das reclamações . 
-* Os principais problemas  identificados foram na área de Transportes(88%) com destaque para dificuldades com recebimento de valores/ reembolso que respresentam 17% .
+* Os principais problemas  identificados foram na área de Transportes(88%) com destaque para dificuldades com recebimento de valores/ reembolso que representam 17% .
 
 ## Contexto 
 O transporte aéreo desempenha um papel fundamental na conectividade entre regiões, conectar regiões, impulsionar o turismo e facilitar negócios, além de gerar empregos dentre outros.
